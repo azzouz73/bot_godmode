@@ -1,3 +1,0 @@
-python-binance
-flask
-requests
